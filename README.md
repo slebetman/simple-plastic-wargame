@@ -48,15 +48,15 @@ target. Let's call this the to-kill roll (or to-kill number).
 
 Depending on conditions on the battlefield, the to-kill number may be modified:
 
- | Conditions                                   | to-kill Modifier |
- |----------------------------------------------|-----------------:|
- | Target downhill from you                     |        -1        |
- | Attacker is a sniper or uses a heavy weapon  |        -1        |
- | Attacker did not move                        |        -1        |
- | Target uphill from you                       |        +1        |
- | Target behind cover                          |        +1        |
- | Target is a sniper or carries a heavy weapon |        +1        |
- | Target is in a vehicle                       |        +1        |
+| Conditions                                   | to-kill Modifier |
+|----------------------------------------------|-----------------:|
+| Target downhill from you                     |        -1        |
+| Attacker is a sniper or uses a heavy weapon  |        -1        |
+| Attacker did not move                        |        -1        |
+| Target uphill from you                       |        +1        |
+| Target behind cover                          |        +1        |
+| Target is a sniper or carries a heavy weapon |        +1        |
+| Target is in a vehicle                       |        +1        |
 
 A roll of 1 never kills regardless of the to-kill modifier. If the to-kill number
 is more than 6 then the target is too well protected to be attacked and must
