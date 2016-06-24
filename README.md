@@ -1,5 +1,6 @@
-Simple Plastic Wargame
-----------------------
+# Simple Plastic Wargame
+
+![Logo](./Soldiers.png)
 
 A simple and fast set of rules for tabletop wargaming
 
