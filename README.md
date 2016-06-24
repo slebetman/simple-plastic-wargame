@@ -1,8 +1,8 @@
 # Simple Plastic Wargame
 
-![Logo](./Soldiers.png)
+*A simple and fast set of rules for tabletop wargaming*
 
-A simple and fast set of rules for tabletop wargaming
+![Logo](./Soldiers.png)
 
 ## Why make another set of rules?
 
