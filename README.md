@@ -36,6 +36,15 @@ first unit. The rest may just follow. It doesn't matter if some units move a
 lot more than one span (we just assume that that run to catch up) only the
 distance of the first move matters.
 
+### Squad Cohesion
+
+When moving a squad, players must keep units within one finger distance from
+each other (roughly 1/2 inch). Any gaps in the squad caused by units in the
+squad dying must be closed.
+
+If a squad merely closes gaps but stays roughly at the same location then the
+squad is considered to have not moved.
+
 ## Attacking
 
 Units may attack enemy squads/units in the attacking phase. The target must be
@@ -90,7 +99,7 @@ every squad fielded.
    bazooka or mortar etc. A heavy weapons unit may be part of a squad or
    may operate individually.
    
-   Heavy weapons units roll 4 D6 when attacking.
+   Heavy weapons units **roll 4 D6 when attacking**.
    
  - **Sniper**
 
@@ -101,10 +110,12 @@ every squad fielded.
    a sniper cannot move.
    
    Snipers may attack twice per turn. They do not need to use both attacks
-   on the same target so a sniper may attack two different targets per turn.
+   on the same target so **a sniper may attack two different targets per turn**.
    
    Since snipers don't move when attacking and is a special unit they get
    both "did not move" and "special unit" modifiers when attacking.
+   
+   Use prone/crawling figures as snipers.
 
 ## Copyright
 
