@@ -2,7 +2,7 @@
 
 *A simple and fast set of rules for tabletop wargaming*
 
-![Logo](./Soldiers.png)
+![Logo](./img/Soldiers.png)
 
 ## Why make another set of rules?
 
@@ -21,6 +21,12 @@ Each turn is divided into two phases: moving and attacking.
 Each unit may move up to the one span per turn (the distance between thumb and
 little finger). Adults and older teens must use a short span (distance between
 index finger and little finger) because it would be unfair otherwise.
+
+![span](./img/span.png)
+*Maximum distance units can move*
+
+![shortspan](./img/shortspan.png)
+*Adults must use the short span for fairness*
 
 OK. If you want to be pedantic, the move distance is roughly 4 inches
 (or exactly 4 inches if you want to insist).
