@@ -84,7 +84,7 @@ every squad fielded.
 
  - **Heavy Weapons Unit**
  
-   ![heavy1](./img/bazooka.jpg) ![heavy2](./img/GPMG.jpg)
+   ![heavy1](./img/bazooka.png) ![heavy2](./img/GPMG.png)
  
    This is a soldier carrying a heavy weapon such as a heavy machine gun or
    bazooka or mortar etc. A heavy weapons unit may be part of a squad or
@@ -94,7 +94,7 @@ every squad fielded.
    
  - **Sniper**
 
-   ![sniper](./img/sniper.jpg)
+   ![sniper](./img/sniper.png)
  
    Snipers operate individually and are never part of a squad. Unlike other
    units, snipers cannot attack if they have moved. Which means, to attack
