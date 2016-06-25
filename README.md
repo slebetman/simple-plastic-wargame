@@ -33,7 +33,7 @@ Units are moved by squad (if they're in a squad - which most should be).
 First move the frontmost unit by the desired distance. Then move the rest of
 the squad behind him. You only need to correctly measure the movement of the
 first unit. The rest may just follow. It doesn't matter if some units move a
-lot more than one span (we just assume that that run to catch up) only the
+lot more than one span (we just assume that they run to catch up) only the
 distance of the first move matters.
 
 ### Squad Cohesion
@@ -67,7 +67,6 @@ Depending on conditions on the battlefield, the to-kill number may be modified:
 | Target is uphill from attacker               |        +1        |
 | Target behind cover                          |        +1        |
 | Target is a special unit                     |        +1        |
-| Target is in a vehicle                       |        +1        |
 
 A roll of 1 never kill regardless of the to-kill modifier. If the to-kill number
 is more than 6 then the target is too well protected to be attacked and must
