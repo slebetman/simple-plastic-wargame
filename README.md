@@ -38,47 +38,66 @@ distance of the first move matters.
 
 ## Attacking
 
-There are two types of attacks: ranged attack and hand-to-hand.
-
-Ranged attacks happens whenever squads are attacking other squads or units that
-are more than two finger widths away (roughly 1/2 an inch). But whenever squads
-are within one span of their target before the movement phase they may elect to
-engage in hand-to-hand by moving towards the target and placing as many of the
-units as possible into base-to-base contact with the target squad or unit.
-
-### Ranged Attack
+Units may attack enemy squads/units in the attacking phase. The target must be
+visible in the attacker's line of sight. Targets completely blocked by terrain,
+buildings or other types of cover may not be attacked. If even a small part of
+the target can be seen by the attacker than it may be attacked.
 
 Each unit may roll one D6 to attack. Generally, a roll of 4 or more kills one
 target. Let's call this the to-kill roll (or to-kill number).
+
+### Modifiers
 
 Depending on conditions on the battlefield, the to-kill number may be modified:
 
 | Conditions                                   | to-kill Modifier |
 |----------------------------------------------|-----------------:|
-| Target downhill from you                     |        -1        |
-| Attacker is a sniper or uses a heavy weapon  |        -1        |
+| Target is downhill from attacker             |        -1        |
+| Attacker is a special unit                   |        -1        |
 | Attacker did not move                        |        -1        |
-| Target uphill from you                       |        +1        |
+| Target is uphill from attacker               |        +1        |
 | Target behind cover                          |        +1        |
-| Target is a sniper or carries a heavy weapon |        +1        |
+| Target is a special unit                     |        +1        |
 | Target is in a vehicle                       |        +1        |
 
-A roll of 1 never kills regardless of the to-kill modifier. If the to-kill number
+A roll of 1 never kill regardless of the to-kill modifier. If the to-kill number
 is more than 6 then the target is too well protected to be attacked and must
 be ignored.
 
 Attacks are resolved closest first. That is, if the target is a squad, the
 frontmost unit gets killed first.
 
-### Hand-to-hand Combat
+### Cover
 
-Like ranged attack, each unit may roll one D6 to attack. Each opposing unit then
-also rolls one D6 to defend. If the attacking roll is equal to or higher than the
-defending roll then the target is killed. This means that a roll of 6 always kills
-and a roll of 1 kills if the defending roll is 1.
+Anything that blocks the view of the target from the attacker is cover. Solid
+covers like walls, buildings and terrain may completely block the target. If
+the target is completely blocked then it may not be attacked. Semi-solid cover
+like bushes and fences always counts as partially covering the target even if
+the target is completely behind cover.
 
-If there are more attackers than defenders then the second attacker may also make
-a roll on the same target unit. The defender only rolls once for both attacks.
+### Special Units
+
+There are always specialists in every army. They either carry special weapons
+or have special skills that are useful in battle. More importantly, they add
+variety to the army and provide more fun! Players may employ one specialist for
+every squad fielded.
+
+ - **Heavy Weapons Unit**
+ 
+   This is a soldier carrying a heavy weapon such as a heavy machine gun or
+   bazooka or mortar etc. A heavy weapons unit may be part of a squad or
+   may operate individually.
+   
+   Heavy weapons units roll 4 D6 when attacking.
+   
+ - **Sniper**
+ 
+   Snipers operate individually and are never part of a squad. Unlike other
+   units, snipers cannot attack if they have moved. Which means, to attack
+   a sniper cannot move.
+   
+   Since snipers don't move when attacking and is a special unit they get
+   both "did not move" and "special unit" modifiers when attacking.
 
 ## Copyright
 
