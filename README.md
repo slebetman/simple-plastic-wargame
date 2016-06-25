@@ -23,9 +23,11 @@ little finger). Adults and older teens must use a short span (distance between
 index finger and little finger) because it would be unfair otherwise.
 
 ![span](./img/span.png)
+
 *Maximum distance units can move*
 
 ![shortspan](./img/shortspan.png)
+
 *Adults must use the short span for fairness*
 
 OK. If you want to be pedantic, the move distance is roughly 4 inches
