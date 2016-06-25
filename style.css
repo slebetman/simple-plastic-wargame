@@ -1,0 +1,15 @@
+body {
+	font-size: 0.625em;
+}
+
+td, th {
+	border: 1px solid #ccc;
+}
+
+h1, h2, h3, h4, h5 {
+	border-bottom: 1px solid #ccc;
+}
+
+h2, h3 {
+	margin-top: 2em;
+}
