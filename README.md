@@ -84,6 +84,8 @@ every squad fielded.
 
  - **Heavy Weapons Unit**
  
+   ![heavy1](./img/bazooka.jpg) ![heavy2](./img/GPMG.jpg)
+ 
    This is a soldier carrying a heavy weapon such as a heavy machine gun or
    bazooka or mortar etc. A heavy weapons unit may be part of a squad or
    may operate individually.
@@ -91,10 +93,15 @@ every squad fielded.
    Heavy weapons units roll 4 D6 when attacking.
    
  - **Sniper**
+
+   ![sniper](./img/sniper.jpg)
  
    Snipers operate individually and are never part of a squad. Unlike other
    units, snipers cannot attack if they have moved. Which means, to attack
    a sniper cannot move.
+   
+   Snipers may attack twice per turn. They do not need to use both attacks
+   on the same target so a sniper may attack two different targets per turn.
    
    Since snipers don't move when attacking and is a special unit they get
    both "did not move" and "special unit" modifiers when attacking.
